@@ -1,7 +1,7 @@
 var d = document.getElementById("dibujito");
 var lienzo = d.getContext("2d");
 
-var lineas = 30;
+var lineas = 50;
 var espacio = d.width/lineas;
 var xi = 1;
 var yi = 1;
